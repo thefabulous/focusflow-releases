@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Focusflow</title>
+        <link>https://raw.githubusercontent.com/thefabulous/focusflow-releases/main/appcast.xml</link>
+        <description>Focusflow updates</description>
+        <language>en</language>
+        <item>
+            <title>Focusflow 1.0.4</title>
+            <pubDate>Mon, 23 Feb 2026 13:26:33 +0100</pubDate>
+            <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/thefabulous/focusflow-releases/releases/download/v1.0.4/Focusflow-1.0.4.zip"
+                       type="application/octet-stream"
+                       sparkle:edSignature="+4b2QnXKIvvjhkXaP2VGcxbH/WViGMmjrK+ukxIe0dDRAV2oaAC3hQYbxqeKqRpLjF7hidPHt4aZLM5SvHNhCw=="
+                       length="37392704" />
+        </item>
+    </channel>
+</rss>
