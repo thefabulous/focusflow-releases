@@ -16,16 +16,5 @@
                        sparkle:edSignature="+4b2QnXKIvvjhkXaP2VGcxbH/WViGMmjrK+ukxIe0dDRAV2oaAC3hQYbxqeKqRpLjF7hidPHt4aZLM5SvHNhCw=="
                        length="37392704" />
         </item>
-        <item>
-            <title>Focusflow 1.0.5</title>
-            <pubDate>Mon, 23 Feb 2026 14:32:02 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/thefabulous/focusflow-releases/releases/download/v1.0.5/Focusflow-1.0.5.zip"
-                       type="application/octet-stream"
-                       sparkle:edSignature="xWq5vvtrf3vHPV/OofdXj6Fhvw2T+2cmS5tK99nwFi5UFQyOCbbEBP1CNBUPeiE1uCzwekleGLsqeMUj+V3ACg=="
-                       length="53324693" />
-        </item>
     </channel>
 </rss>
