@@ -70,6 +70,21 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+        <h2>What's new</h2>
+        <ul>
+          <li>Added a new transcript toolbar with a microphone source dropdown and one-click transcript copy.</li>
+          <li>Improved transcript summary reliability after meetings by preventing the inter-app summary listener from silently stopping.</li>
+          <li>Added a richer Ask AI experience with a redesigned panel, typewriter-style response reveal, and improved feedback/copy interactions.</li>
+          <li>Updated Note Details screens and supporting snapshot coverage for transcript, recording controls, and summary states.</li>
+          <li>Refined event rows and timers, including clearer imminent/started states and better dashboard banner behavior.</li>
+          <li>Suppressed meeting detection notifications when an event is about to start (within 15 minutes) to reduce noise.</li>
+          <li>Introduced a YAML-configurable transcription policy for recording/silence/session behavior.</li>
+          <li>Improved note details and popover UI behavior (including dynamic popover resize fixes and Today/Yesterday date headers).</li>
+          <li>Improved resilience around offline auth/token refresh and coroutine error handling.</li>
+          <li>Added multiple stability and visual polish fixes across Notes, Ask AI, and recording-related flows.</li>
+        </ul>
+            ]]></description>
             <enclosure url="https://github.com/thefabulous/focusflow-releases/releases/download/v1.0.8/Focusflow-1.0.8.zip"
                        type="application/octet-stream"
                        sparkle:edSignature="u1fol/0pFIfVRrIDOpvSI0uZ8Gyn/l1cL1xfdDecAFfTbMPODFAhuZe1HGUj5quBFM2wcNusnHJWkJvhdOQuCQ=="
