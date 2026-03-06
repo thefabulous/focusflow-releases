@@ -90,5 +90,19 @@
                        sparkle:edSignature="u1fol/0pFIfVRrIDOpvSI0uZ8Gyn/l1cL1xfdDecAFfTbMPODFAhuZe1HGUj5quBFM2wcNusnHJWkJvhdOQuCQ=="
                        length="57832555" />
         </item>
+        <item>
+            <title>Focusflow 1.0.9</title>
+            <pubDate>Fri, 06 Mar 2026 14:34:09 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p>Release 1.0.9</p>
+            ]]></description>
+            <enclosure url="https://github.com/thefabulous/focusflow-releases/releases/download/v1.0.9/Focusflow-1.0.9.zip"
+                       type="application/octet-stream"
+                       sparkle:edSignature="lG8TKb/n//DTuNiONCi/CpSWO46upQw14x6O60vdXSfpbbemOPNSKkKgKSsyj4dJjmFq8AjsyJHoi0S+wZV6BA=="
+                       length="58751062" />
+        </item>
     </channel>
 </rss>
