@@ -92,17 +92,33 @@
         </item>
         <item>
             <title>Focusflow 1.0.9</title>
-            <pubDate>Fri, 06 Mar 2026 14:34:09 +0100</pubDate>
+            <pubDate>Thu, 06 Mar 2026 14:40:00 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-<p>Release 1.0.9</p>
+        <h2>What&#39;s new</h2>
+        <ul>
+          <li>The helper tray menu now shows today&#39;s meetings with &#34;Now&#34; and &#34;Today&#34; sections, including time ranges and a recording indicator. Tap any event to jump to its note, or hit &#34;New Meeting&#34; to create one.</li>
+          <li>If your microphone is muted or silent during recording, a floating notification now appears after a few seconds. It fires once per session so it won&#39;t nag you repeatedly.</li>
+          <li>The Ask AI panel now remembers whether you left it open or closed, auto-hides after generating a summary, and shrinks to an icon on narrow windows.</li>
+          <li>Clicking &#34;Join&#34; on a Google Meet link now routes through Google&#39;s account chooser so the browser picks the right account automatically.</li>
+          <li>Note details, settings, and calendars now show shimmer placeholders while loading, with smooth crossfade transitions throughout navigation.</li>
+          <li>The &#34;Resume Recording&#34; button now honors the grace period from your transcription policy instead of always using 5 hours.</li>
+          <li>Breadcrumbs stay visible while viewing a note and dismiss properly when clicking back.</li>
+          <li>Opening a note via notification or deeplink no longer breaks the Ask AI panel.</li>
+          <li>Fixed a crash during audio tap teardown when ending meetings or switching audio devices.</li>
+          <li>Fixed sign-in keychain errors that could cause authentication failures.</li>
+          <li>Transcript bubbles are no longer hidden behind floating buttons at the bottom of long transcripts.</li>
+          <li>The Ask AI panel overlays on top of notes instead of shrinking their width.</li>
+          <li>Release notes now display correctly in the Sparkle update popup.</li>
+          <li>Updates are now distributed as a DMG installer with drag-to-Applications install.</li>
+        </ul>
             ]]></description>
-            <enclosure url="https://github.com/thefabulous/focusflow-releases/releases/download/v1.0.9/Focusflow-1.0.9.zip"
+            <enclosure url="https://github.com/thefabulous/focusflow-releases/releases/download/v1.0.9/Focusflow-1.0.9.dmg"
                        type="application/octet-stream"
-                       sparkle:edSignature="lG8TKb/n//DTuNiONCi/CpSWO46upQw14x6O60vdXSfpbbemOPNSKkKgKSsyj4dJjmFq8AjsyJHoi0S+wZV6BA=="
-                       length="58751062" />
+                       sparkle:edSignature="3xA+WHtdXqr+R6aaa2aZcis822BhfwRahZC0v8QTipG3vNlXcdExSfzZVX9NBYb/o2YDo9iwoeEosuLv8jEkAw=="
+                       length="58969146" />
         </item>
     </channel>
 </rss>
